@@ -1,0 +1,23 @@
+gui-name: '&c&lSOCIALS'
+
+tiktok:
+  name: '&f&lTIKTOK'
+  link: 'https://www.tiktok.com/@rajce.pro'
+  headID: '65771'
+
+youtube:
+  name: '&c&lYOUTUBE'
+  link: 'https://www.youtube.com/@rajcepro'
+  headID: '20282'
+
+instagram:
+  name: '&d&lINSTAGRAM'
+  link: 'https://www.instagram.com/rajce.pro/'
+  headID: '3943'
+
+store:
+  name: '&4&lSTORE'
+  link: 'https://store.rajce.pro/'
+  headID: '3005'
+
+

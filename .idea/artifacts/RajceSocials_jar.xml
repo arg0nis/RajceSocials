@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RajceSocials:jar">
+    <output-path>$PROJECT_DIR$/../../TestServr/plugins</output-path>
+    <root id="archive" name="RajceSocials.jar">
+      <element id="module-output" name="RajceSocials" />
+    </root>
+  </artifact>
+</component>

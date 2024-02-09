@@ -1,0 +1,10 @@
+name: RajceSocials
+version: '${project.version}'
+main: com.arg0nis.rajcesocials.RajceSocials
+api-version: '1.20'
+depend: [HeadDatabase]
+authors: [Arg0nis]
+commands:
+  socials:
+    description: Socials commands
+    permission: rajcesocials.admin
